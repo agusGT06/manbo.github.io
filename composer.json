@@ -1,0 +1,20 @@
+{
+    "name": "kawschool/manbo",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gonzales Tanta Jose Agustin",
+            "email": "agustin456gonzalestan@gmail.com"
+        }
+
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Kawschool\\":"src/"
+        }
+    }
+}
